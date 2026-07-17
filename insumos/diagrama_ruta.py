@@ -18,7 +18,7 @@ ax.text(6.5,5.02,"T1. DIFUSIÓN Y COMUNICACIÓN  (correo institucional + WhatsAp
         ha="center",va="center",fontsize=9.5,fontweight="bold",color="white")
 
 phases=[
- ("F1","Sensibilización","Charlas, ferias,\nhackathones,\nretos"),
+ ("F1","Sensibilización","Charlas y talleres,\nferias, cine-foros,\ncampañas de difusión"),
  ("F2","Identificación\ne ideación","Convocatorias,\nrecepción de\nideas, semilleros"),
  ("F3","Diagnóstico y\nclasificación","Nivel de madurez;\nruta personali-\nzada"),
  ("F4","Formación y\npreincubación","Modelo negocio,\nfinanzas, MVP,\nvalidación"),
