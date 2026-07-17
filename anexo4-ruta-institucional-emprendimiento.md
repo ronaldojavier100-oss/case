@@ -64,7 +64,7 @@ La ruta operacionaliza la **Línea Estratégica 3 — Impacto regional, nacional
 
 ### Fase 1 — Sensibilización *(despertar la cultura emprendedora)*
 - **Objetivo:** transformar actitudes y despertar el interés por emprender en toda la comunidad.
-- **Actividades:** charlas y talleres en aulas, ferias, cine-foros, hackathones, retos de innovación interdisciplinarios; difusión del CIE.
+- **Actividades:** charlas y talleres de sensibilización en aulas y espacios comunes; ferias de emprendimiento y muestras de proyectos; cine-foros, conversatorios y testimonios de emprendedores y egresados; campañas de difusión del CIE por los canales institucionales.
 - **Responsables:** CIE + docentes enlace.
 - **Entregable:** comunidad sensibilizada; captación de interesados.
 - *Base: PDI Estrategia 7 (sensibilización); demanda P6 (talleres 45%).*
