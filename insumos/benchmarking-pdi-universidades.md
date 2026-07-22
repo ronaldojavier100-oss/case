@@ -8,8 +8,8 @@
 ## 1. Universidad del Atlántico — PDI 2022-2031 (institución objeto de estudio)
 
 **Arquitectura estratégica:**
-- **Motor Estratégico 2:** Investigación, Innovación, Extensión y Proyección Social con Impacto Regional y Global.
-- **Línea Estratégica 2.3:** Innovación y Emprendimiento con Impacto Social y Productivo.
+- **Línea Estratégica 3:** Impacto regional, nacional e internacional desde la Extensión y Proyección Social.
+- **Motor de desarrollo (dentro de la Línea 3):** Articulación con el sector productivo y la sociedad (donde se ubica el emprendimiento, el CIE y la transferencia). *(Corrección: en versiones previas se había etiquetado erróneamente como "Motor Estratégico 2 / Línea 2.3".)*
 - **Objetivo:** fomentar la cultura de la innovación, la transferencia de conocimiento y el emprendimiento en la comunidad universitaria.
 
 **Concepción del emprendimiento:** proceso **continuo y transversal** que permea docencia (currículo) e investigación; NO una "feria de fin de semestre".
